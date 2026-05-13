@@ -1,4 +1,4 @@
-# danielle
+# Daniel
 Computer Science Student  
 Learning C++, Java, Python, and Web Development  
 Currently improving my programming and problem-solving skills  
